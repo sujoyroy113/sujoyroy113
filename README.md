@@ -1,3 +1,5 @@
+![](https://dl.kaskus.id/storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujoyroy113&label=Profile%20views&color=eb4d3d&style=flat-square" alt="sujoyroy113" /> </p>
 </i></b></h3>
 <h3 align="center">
