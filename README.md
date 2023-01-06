@@ -114,6 +114,6 @@
 
 <h2><img width="28" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-graph.png" /><i> GitHub Contribution Graph :</i></h2>
 
-[![Kshitij's github activity graph](https://my-activity-graph-instance.herokuapp.com/graph?username=sujoyroy113&theme=react-dark&area=true&hide_border=true)](https://github.com/sujoyroy113/github-readme-activity-graph)
 
-<a href="https://github.com/sujoyroy113/MINHAZ-BYPASS"><img title="MINHAZ-BYPASS" src="https://github-readme-stats.vercel.app/api/pin/?username=sujoyroy113&repo=MINHAZ-BYPASS&theme=gotham"></a>
+
+<a href="https://github.com/sujoyroy113/SXS-PRO"><img title="MINHAZ-BYPASS" src="https://github-readme-stats.vercel.app/api/pin/?username=sujoyroy113&repo=SXS-PRO&theme=gotham"></a>
